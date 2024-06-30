@@ -510,13 +510,14 @@ footer a{
     font-size: 13px;
     text-decoration: none;
     color:#222;
-    margin: 0 0 10px 0;
+    margin-bottom: 10px;
 }
 
 footer .follow{
   color: #465b52;
   padding-right: 4px;
   cursor: pointer;
+  margin-top: 20px;
 }
 
 footer .install .row img{
